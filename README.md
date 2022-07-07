@@ -1,1 +1,1 @@
-# consumer-finances-survey-assignment
+# consumer-finances-survey-assignment : I chose these variables for two reasons. Both datasets are interesting and exciting to code with because they are something I can relate to. Also, they are correlated with each other, which was also a reequirement for the assignment. My scatterplot suggests that the number of kids in a household is almost always decided by subtracting the number of parents from the total number of members. It's always determined by the number of adults subtracted from the total members. 
